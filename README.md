@@ -8,7 +8,7 @@
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** Java, JavaScript, HTML, CSS, SQL, Kotlin, PL/SQL
+- **Languages:** Java, JavaScript, HTML, CSS, SQL, Kotlin, PL/SQL, AngularJS
 - **Web Development:** JSP, Servlets
 - **Databases:** MySQL, Oracle Database
 - **Tools & IDEs:** Eclipse, NetBeans, Visual Studio Code, Android Studio, Apache Maven
